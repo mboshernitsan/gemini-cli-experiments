@@ -1,5 +1,7 @@
 # Gemini CLI
 
+[![Open in Gemini CLI Web](open-btn.svg)](https://cloudssh-staging.corp.google.com/cloudshell/editor?cloudshell_git_repo=https%3A%2F%2Fgithub.com%2Fmboshernitsan%2Fgemini-cli-experiments&cloudshell_git_branch=main&show=terminal&cloudshell_start_gemini_cli=true)
+
 [![Gemini CLI CI](https://github.com/google-gemini/gemini-cli/actions/workflows/ci.yml/badge.svg)](https://github.com/google-gemini/gemini-cli/actions/workflows/ci.yml)
 [![Version](https://img.shields.io/npm/v/@google/gemini-cli)](https://www.npmjs.com/package/@google/gemini-cli)
 [![License](https://img.shields.io/github/license/google-gemini/gemini-cli)](https://github.com/google-gemini/gemini-cli/blob/main/LICENSE)
